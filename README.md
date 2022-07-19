@@ -14,7 +14,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a computer scientist and a software developer. I achieved my Ph.D. degree in Computer Science.
+I am a full-stack web developer and online instructor, specializiing in mostly JS, but also write Python, PHP and some other stuff.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.

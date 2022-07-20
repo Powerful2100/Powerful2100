@@ -14,12 +14,18 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a senior blockchain developer and also a full-stack web developer, specializiing in mostly Smart contracts(Solidity, Rust)/Web3.js/Ethers.js/React.js/Angular, but also write Python, PHP and some other stuff.
+I am a senior blockchain developer and also a full-stack web developer, specializiing in mostly Smart contracts(Solidity, Rust)/Web3.js/Ethers.js/React.js/Next.js/Angular, but also write Python, PHP and some other stuff.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building blockchain-based web and mobile applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/)
+- 📫 How to reach me: 
+&nbsp; 📧 Email : iwamoto.dev1001@gmail.com
+&nbsp; [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)] Linkedin : https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/(https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/)
+&nbsp; 💬 Skype : live:.cid.f814496cb94c3bd
+&nbsp; 💬 Discord : Professor#1466
+<!-- &nbsp; 💬 Telegram : [@solozekan](https://t.me/solozekan)
+&nbsp; 🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/) -->
 
 ---
 

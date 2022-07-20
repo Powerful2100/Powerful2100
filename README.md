@@ -1,8 +1,8 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+</p> -->
 <!-- <p align="center">
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
@@ -21,12 +21,13 @@ I am a senior blockchain developer and also a full-stack web developer, speciali
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 
 ### 📫 &nbsp;How to reach me :
-📧 Email : iwamoto.dev1001@gmail.com
-💬 Linkedin : [https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/](https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/)
-💬 Skype : live:.cid.f814496cb94c3bd
-💬 Discord : Professor#1466
-<!-- 💬 Telegram : [@solozekan](https://t.me/solozekan)
-🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/) -->
+
+- 📧 Email : iwamoto.dev1001@gmail.com
+- 💬 Linkedin : [https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/](https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/)
+- 💬 Skype : live:.cid.f814496cb94c3bd
+- 💬 Discord : Professor#1466
+<!-- - 💬 Telegram : [@solozekan](https://t.me/solozekan)
+- 🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/) -->
 
 ---
 

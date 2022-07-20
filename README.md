@@ -1,9 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-[<img align="" alt="Techrate | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[gmail]: mailto:iwamoto.dev1001@gmail.com
-
+<a href="mailto:iwamoto.dev1001@gmail.com"><img src="[https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)" alt="Gmail Badge"></a>
 <a href="https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 <!-- [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -20,9 +18,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a 🥇Senior Blockchain Developer and also a 🥇Full-stack Web Developer, specializiing in mostly Smart contracts(Solidity, Rust)/Web3.js/Ethers.js/React.js/Next.js/Angular, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a 🥇Senior Blockchain Developer and also a 🥇Full-stack Web Developer, specializing in mostly Smart contracts(Solidity, Rust)/Web3.js/Ethers.js/React.js/Next.js/Angular, but also write Python, PHP and some other stuff. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building blockchain-based web and mobile applications.
+- 🔭 I’ve rich experience in frontend and backend for building blockchain-based web and mobile applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 

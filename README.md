@@ -14,7 +14,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Senior Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and also a Full-stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , specializiing in mostly Smart contracts(Solidity, Rust)/Web3.js/Ethers.js/React.js/Next.js/Angular, but also write Python, PHP and some other stuff.
+I am a 🥇Senior Blockchain Developer🥇 and also a Full-stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , specializiing in mostly Smart contracts(Solidity, Rust)/Web3.js/Ethers.js/React.js/Next.js/Angular, but also write Python, PHP and some other stuff.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building blockchain-based web and mobile applications.
 - 🌱 Exploring Technical Content Writing.

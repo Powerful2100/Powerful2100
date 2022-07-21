@@ -30,8 +30,8 @@ I am a 🥇Senior Blockchain Developer and also a 🥇Full-stack Web Developer, 
 - 💬 Linkedin : [https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/](https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/)
 - 💬 Skype : live:.cid.f814496cb94c3bd
 - 💬 Discord : Professor#1466
-<!-- - 💬 Telegram : [@solozekan](https://t.me/solozekan)
-- 🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/) -->
+- 🌐 Website : [hanzou.netlify.app](https://hanzou.netlify.app/)
+<!-- - 💬 Telegram : [@solozekan](https://t.me/solozekan) -->
 
 ---
 

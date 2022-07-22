@@ -29,7 +29,7 @@ I am a 🥇Senior Blockchain Developer and also a 🥇Full-stack Web Developer, 
 - 📧 Email : iwamoto.dev1001@gmail.com
 - 💬 Linkedin : [https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/](https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/)
 - 💬 Skype : live:.cid.f814496cb94c3bd
-- 💬 Discord : Professor#1466
+- 💬 Discord : Professor#7745
 - 🌐 Website : [hanzou.netlify.app](https://hanzou.netlify.app/)
 <!-- - 💬 Telegram : [@solozekan](https://t.me/solozekan) -->
 

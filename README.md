@@ -24,13 +24,13 @@ I am a 🥇Senior Blockchain Developer and also a 🥇Full-stack Web Developer, 
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 
-### 📫 &nbsp;How to reach me :
+<!-- ### 📫 &nbsp;How to reach me : -->
 
-- 📧 Email : iwamoto.dev1001@gmail.com
-- 💬 Linkedin : [https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/](https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/)
-- 💬 Skype : live:.cid.f814496cb94c3bd
-- 💬 Discord : Professor#7745
-- 🌐 Website : [hanzou.netlify.app](https://hanzou.netlify.app/)
+<!-- - 📧 Email : iwamoto.dev1001@gmail.com -->
+<!-- - 💬 Linkedin : [https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/](https://www.linkedin.com/in/iwamoto-hanzou-9b3752236/) -->
+<!-- - 💬 Skype : live:.cid.f814496cb94c3bd -->
+<!-- - 💬 Discord : Professor#7745 -->
+<!-- - 🌐 Website : [hanzou.netlify.app](https://hanzou.netlify.app/) -->
 <!-- - 💬 Telegram : [@solozekan](https://t.me/solozekan) -->
 
 ---
